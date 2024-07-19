@@ -1,0 +1,93 @@
+[
+    {
+        "id": "mummy",
+        "sex": "f",
+        "description": "The first one",
+        "name": "Mummy",
+        "children": ["amar", "prem"]
+    },
+    {
+        "id": "amar",
+        "sex": "m",
+        "description": "",
+        "name": "Amar",
+        "children": []
+    },
+    {
+        "id": "prem",
+        "sex": "f",
+        "description": "",
+        "name": "Prem",
+        "children": ["pihu", "yamini", "sheila", "santra"]
+    },
+    {
+        "id": "pihu",
+        "sex": "f",
+        "description": "",
+        "name": "Pihu",
+        "children": ["kamlesh", "mukesh"]
+    },
+    {
+        "id": "yamini",
+        "sex": "f",
+        "description": "",
+        "name": "Yamini",
+        "children": ["mohini"]
+    },
+    {
+        "id": "sheila",
+        "sex": "f",
+        "description": "",
+        "name": "Sheila",
+        "children": ["karan", "arjun"]
+    },
+    {
+        "id": "santra",
+        "sex": "m",
+        "description": "",
+        "name": "Santra",
+        "children": []
+    },
+    {
+        "id": "karan",
+        "sex": "m",
+        "description": "",
+        "name": "Karan",
+        "children": []
+    },
+    {
+        "id": "arjun",
+        "sex": "m",
+        "description": "",
+        "name": "Arjun",
+        "children": []
+    },
+    {
+        "id": "kamlesh",
+        "sex": "m",
+        "description": "",
+        "name": "Kamlesh",
+        "children": []
+    },
+    {
+        "id": "mukesh",
+        "sex": "m",
+        "description": "",
+        "name": "Mukesh",
+        "children": []
+    },
+    {
+        "id": "mohini",
+        "sex": "f",
+        "description": "",
+        "name": "Mohini",
+        "children": []
+    },
+    {
+        "id": "laila",
+        "sex": "f",
+        "description": "",
+        "name": "Laila",
+        "children": []
+    }
+]
